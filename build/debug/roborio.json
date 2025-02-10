@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.94.21.2",
+    "project": "V3 Swerve Drive Auto-Current"
+  }
+]
